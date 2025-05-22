@@ -9,9 +9,11 @@
 
   .link-list{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
 
     .link{
+      padding: 20px;
+      text-align: right;
       color: white;
       text-decoration: none;
     }
